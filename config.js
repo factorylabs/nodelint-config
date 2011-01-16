@@ -53,6 +53,7 @@ var options = {
                 '__filename',
                 '__dirname',
                 'GLOBAL',
+                'jasmine',
                 'describe',
                 'it',
                 'beforeEach',
@@ -71,6 +72,7 @@ var options = {
                 'Event',
                 'Ajax',
                 'Class',
+                'Modernizr',
                 'Element']
 };
 
